@@ -1,11 +1,30 @@
-# __Asmas__
+# __Asmas Setup File__
 ## Student Information System 
 ### Windows Desktop Software (Vb.net)
 
 This repo contains the setup file of ASMAS software. Find the source code here. https://github.com/amWRit/Asmas
 
+__TRIAL VERSION__
+* The trial version of this software is available here for test purposes.
 
-Three roles: 
+https://drive.google.com/file/d/0B3A1VXGJDY0AUXZra1dVc3NGOXc/view?usp=sharing 
+* The Trial version will have maximum 10 login attempts to use and test the software. 
+* Use credentials- _username: admin and password: admin_ to login. 
+* The software will be set up with an initial database for test. You can use view other user credentials within the software when you are logged in as Admin. 
+* Login as other with different roles to test the software.
+
+__FULL VERSION__
+
+* Once you are ready to install the full version, download this setup file. 
+* You will be prompted with a dialog box that shows your Product ID and a place to enter your Product Key. 
+
+![GitHub Logo](https://github.com/amWRit/AsmasSetup/blob/master/key.png)
+
+* Give that _Product ID_ to your software provider and ask for the _Product KEY_.
+
+# __FEATURES__
+
+__Three roles:__ 
 * Admin
 * Class Teacher
 * Viewer
