@@ -18,7 +18,7 @@ __FULL VERSION__
 * Once you are ready to install the full version, download this setup file. 
 * You will be prompted with a dialog box that shows your Product ID and a place to enter your Product Key. 
 
-![GitHub Logo](https://github.com/amWRit/AsmasSetup/blob/master/key.png)
+![Ask for key](https://github.com/amWRit/AsmasSetup/blob/master/key.png)
 
 * Give that _Product ID_ to your software provider and ask for the _Product KEY_.
 
