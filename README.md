@@ -1,6 +1,9 @@
 # __Asmas__
-##Student Information System 
+## Student Information System 
 ### Windows Desktop Software (Vb.net)
+
+This repo contains the setup file of ASMAS software. Find the source code here. https://github.com/amWRit/Asmas
+
 
 Three roles: 
 * Admin
